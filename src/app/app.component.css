@@ -1,0 +1,13 @@
+.colorChange {
+  color: white;
+}
+
+.bgColor {
+  background-color: black;
+}
+
+.singleCssColorChange {
+  color: yellow;
+  font-weight: 100;
+  font-style: italic;
+}
